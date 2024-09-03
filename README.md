@@ -7,7 +7,7 @@ Equipo 1 WRO categoria 'Future Engineers' 2024:
 * Ezequiel --> Diseño y Construccion 
 
 # MATERIALES DE INGENIERÍA
-    Este documento contiene toda la información del robot que participará en la competencia Nacional en Argentina de la WRO edición 2024.
+  Este documento contiene toda la información del robot que participará en la competencia Nacional en Argentina de la WRO edición 2024.
 
 # CONTENIDO
 
